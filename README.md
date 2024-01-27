@@ -6,7 +6,7 @@
 #
 #### This is meant to showcase what I have done, there should be some progression in quality and complexity of code.
 #### The order I did them was CAP, G, C, FIB, DIFF, GAM. 
-#### You will notice that CAP is coded horribly - it was probably one of the most difficult to code and I happened to be doing it first. 
+#### You will notice that CAP was one of the most difficult to code and I happened to be doing it first by chance. 
 # 
 ### Error Calculation
 #### Most of the python files should include a series of variables labeled in a format like: dXdy.
